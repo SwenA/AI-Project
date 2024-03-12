@@ -1,0 +1,2 @@
+Créer une nouvelle caractéristique qui dit si l'employé respecte le temps de travail sur son contract (Faire une caractéristique qui peut montrer si l'employé fait des heures sup)
+Faire les autres modèles

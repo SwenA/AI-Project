@@ -1,1 +1,0 @@
-Créer une nouvelle caractéristique qui dit si l'employé respecte le temps de travail sur son contract
